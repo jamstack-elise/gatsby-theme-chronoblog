@@ -1,33 +1,25 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
-    siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog.now.sh/',
+    siteTitle: 'Elise Plečnik - remote web developer & designer',
+    siteDescription: 'Elise Plečnik is a remote JAMstack Developer',
+    siteImage: '/Gatsby.png', // main image of the site for metadata
+    siteUrl: 'https://elisejane.me',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
-    avatar: '/avatar.jpg',
+    author: 'Elise Plečnik is a remote frontend wright.', // for example - 'Ivan Ganev'
+    authorDescription: 'jamstack development && clean design.', // short text about the author
+    avatar: '/avatar.png',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
-        icon: `envelope-square`,
-        url: `mailto: person@email.com`
-      },
-      {
-        icon: `twitter`,
-        url: `https://twitter.com/ganevru`
-      },
-      {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/Chronoblog/jamstack-elise`
       },
       {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        icon: `behance`,
+        url: `https://www.behance.net/joyfullydesign`
       }
     ]
   },

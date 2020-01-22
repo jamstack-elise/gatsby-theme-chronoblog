@@ -1,6 +1,7 @@
 ---
-date: 2018-10-26
+date: 2019-10-26
 tags: ['video', 'note']
+hide: true
 ---
 
 <Embed
